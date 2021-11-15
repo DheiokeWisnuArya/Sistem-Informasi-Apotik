@@ -26,7 +26,7 @@ Table Resep, Table Tanpa Resep
 -5200411553 – Alfa Iqbal Ahlun Naja
 Table Pembayaran, Table Struk
 
-Pembagian Tugas Desain
+Pembagian Tugas Design
 -5200411334 - Dheioke Wisnu Arya = DESAIN UI FIGMA
 -5200411036 - Nurdi Dwi Wahyu = Arsitektur
 -5200411553 – Alfa Iqbal Ahlun Naja = SKETSA
