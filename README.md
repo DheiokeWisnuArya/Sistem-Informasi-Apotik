@@ -31,3 +31,4 @@ Pembagian Tugas Design
 -5200411036 - Nurdi Dwi Wahyu = Arsitektur
 -5200411553 – Alfa Iqbal Ahlun Naja = SKETSA
 -5200411292 - Syifa Maulaya = DESAIN UI FIGMA
+ 
