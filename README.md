@@ -1,14 +1,16 @@
 # KELOMPOK-10
 
-Anggota Kelompok
--5200411036 - Nurdi Dwi Wahyu
--5200411292 - Syifa Maulaya
--5200411334 - Dheioke Wisnu Arya
--5200411553 – Alfa Iqbal Ahlun Naja
+## Anggota Kelompok
 
-Pembagian Tugas SRS
--5200411036 - Nurdi Dwi Wahyu
-Cover, Ruang Lingkup, Tujuan, Perspektif Produk, Software Produk, Class Diagram, Sequence Diagram Pasien
+<li>5200411036 - Nurdi Dwi Wahyu</li>
+<li>5200411292 - Syifa Maulaya</li>
+<li>5200411334 - Dheioke Wisnu Arya</li>
+<li>5200411553 – Alfa Iqbal Ahlun Naja</li>
+</ul>
+
+## Pembagian Tugas SRS
+<li>5200411036 - Nurdi Dwi Wahyu
+Cover, Ruang Lingkup, Tujuan, Perspektif Produk, Software Produk, Class Diagram, Sequence Diagram Pasien</li>
 -5200411292 - Syifa Maulaya
  Referensi, Definisi Istilah, Hardware Interface, Fungsi Produk,Activity Diagram Apoteker,  Object Diagram
 -5200411334 - Dheioke Wisnu Arya
