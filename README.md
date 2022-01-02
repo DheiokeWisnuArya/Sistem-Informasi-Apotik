@@ -1,4 +1,4 @@
-# KELOMPOK-10
+# KELOMPOK-7
 
 ## Anggota Kelompok
 <ul>
@@ -38,4 +38,36 @@
  <li>5200411036 - Nurdi Dwi Wahyu = Arsitektur</li>
  <li>5200411553 – Alfa Iqbal Ahlun Naja = SKETSA</li>
  <li>5200411292 - Syifa Maulaya = DESAIN UI FIGMA</li>
+</ul>
+
+## Pembagian Tugas RAD
+<ul>
+ <li>5200411036 - Nurdi Dwi Wahyu</li>
+  <ol>Pembentukan Aplikasi</ol>
+  <ol>Membuat Web</ol>
+  <ol>Kebutuhan Input & Informasi</ol>
+ <li>5200411292 - Syifa Maulaya</li>
+  <ol>Pendahuluan (Latar Belakang Sistem, Tujuan, dan Batasan Masalah)</ol>
+  <ol>Arsitektur Sistem</ol>
+  <ol>Kebutuhan Hardware</ol>
+ <li>5200411334 - Dheioke Wisnu Arya</li>
+  <ol>Use Case Diagramr</ol>
+  <ol>Activity Diagram</ol>
+  <ol>Jenis Sistem, Bahasa Pemrograman, Kebutuhan Software</ol>
+ <li>5200411553 – Alfa Iqbal Ahlun Naja</li>
+  <ol>Sequence Diagram</ol>
+  <ol>Class Diagram</ol>
+  <ol>Pengujian & Turnover (Pertanyaan/tanggapan yang diajukan)</ol>
+</ul>
+
+## Pembagian Tugas Scrum
+<ul>
+ <li>5200411036 - Nurdi Dwi Wahyu</li>
+  <ol>Delivery product</ol>
+ <li>5200411292 - Syifa Maulaya</li>
+  <ol>Melakukan Sprint</ol>
+ <li>5200411334 - Dheioke Wisnu Arya</li>
+  <ol>Pembuatan product backlog</ol>
+ <li>5200411553 – Alfa Iqbal Ahlun Naja</li>
+  <ol>Judul, Daftar isi, User stories</ol>
 </ul>
