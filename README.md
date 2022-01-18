@@ -71,3 +71,13 @@
  <li>5200411553 – Alfa Iqbal Ahlun Naja</li>
   <ol>Judul, Daftar isi, User stories</ol>
 </ul>
+
+## Pembagian Tugas AGILE Metode Crystal
+<ul>
+ <li>5200411036 - Nurdi Dwi Wahyu</li>
+ <li>5200411292 - Syifa Maulaya</li>
+  <ol>Mengerjakan Bab I dan II</ol>
+ <li>5200411334 - Dheioke Wisnu Arya</li>
+ <li>5200411553 – Alfa Iqbal Ahlun Naja</li>
+  <ol>Mengerjakan Bab III dan IV</ol>
+</ul>
