@@ -75,9 +75,11 @@
 ## Pembagian Tugas AGILE Metode Crystal
 <ul>
  <li>5200411036 - Nurdi Dwi Wahyu</li>
+  <ol>Mengerjakan Bab I dan II</ol>
  <li>5200411292 - Syifa Maulaya</li>
   <ol>Mengerjakan Bab I dan II</ol>
  <li>5200411334 - Dheioke Wisnu Arya</li>
+  <ol>Mengerjakan Bab III dan IV</ol>
  <li>5200411553 – Alfa Iqbal Ahlun Naja</li>
   <ol>Mengerjakan Bab III dan IV</ol>
 </ul>
@@ -85,9 +87,11 @@
 ## Pembagian Tugas DevOps Dengan Tools JIRA
 <ul>
  <li>5200411036 - Nurdi Dwi Wahyu</li>
+  <ol>Mengerjakan Bab III dan IV</ol>
  <li>5200411292 - Syifa Maulaya</li>
   <ol>Mengerjakan Bab III dan IV</ol>
  <li>5200411334 - Dheioke Wisnu Arya</li>
+  <ol>Mengerjakan Bab I dan II</ol>
  <li>5200411553 – Alfa Iqbal Ahlun Naja</li>
   <ol>Mengerjakan Bab I dan II</ol>
 </ul>
